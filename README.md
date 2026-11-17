@@ -27,4 +27,4 @@ The project aims to make the lost-and-found process easier, more organized, and 
 
 ## Project Type
 Final Year Project (FYP) - BS Computer Science
-Product Owner / Supervisor: Sir Ahmad Arslan
+Product Owner / Supervisor: Sir Ahmad Arsalan
