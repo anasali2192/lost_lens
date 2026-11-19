@@ -9,8 +9,8 @@ The project aims to make the lost-and-found process easier, more organized, and 
 
 ## Project Team
 - Member 1: Anas Ali Jafri
-- Member 2: Hira Nasir
-- Member 3: Sheeza Sajjad
+- Member 2: Sheeza Sajjad
+- Member 3: Hira Nasir
 
 ## Key Features
 - Web App: Role-based access (Student, Teacher, Admin), posting lost/found items with photos, and a claim status tracker.
